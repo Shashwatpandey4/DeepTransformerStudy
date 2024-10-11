@@ -19,27 +19,8 @@ The goal of this project is to explore the full spectrum of **transformers** fro
 ## Repository Structure
 
 ```bash
-├── research-papers
-│   ├── attention-mechanisms
-│   ├── transformer-variants
-│   ├── mathematical-proof
-│   └── llm-reasoning
-├── code
-│   ├── transformer-implementations
-│   │   ├── vanilla-transformer
-│   │   ├── bert
-│   │   ├── gpt
-│   │   └── t5
-│   ├── experiments
-│   └── llm-for-math-reasoning
-├── docs
-│   ├── transformer-basics.md
-│   ├── mathematical-proofs.md
-│   ├── architectures.md
-│   └── experiment-results.md
-├── notebooks
-│   ├── vanilla-transformer.ipynb
-│   └── math-reasoning.ipynb
+├── research-papers/
+├── code/
 ├── datasets
 │   └── custom-datasets
 ├── evaluation-metrics
